@@ -1,7 +1,10 @@
 Foodies Restaurant App
+
+
 The Foodies Restaurant App is an interactive and dynamic platform that allows food enthusiasts to explore various food, discover popular dishes, and make reservations for their dining experience. The app features a smooth user interface with responsive design, making it easy to browse menus, view restaurant details, and book a table.
 
 Features
+
 Hero Section: A visually striking section at the top of the homepage that highlights the restaurant's dishes with images and catchy titles.
 
 Popular Dishes Menu: A collection of popular dishes, dynamically rendered from a JSON data file, showcasing images, titles, and categories for each dish.
